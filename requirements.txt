@@ -1,0 +1,13 @@
+streamlit
+google-generativeai
+python-dotenv
+langchain
+PyPDF2
+chromadb
+faiss-cpu
+langchain_google_genai
+llama-index
+llama-index-llms-gemini
+pypdf
+IPython
+llama-index-embeddings-gemini
